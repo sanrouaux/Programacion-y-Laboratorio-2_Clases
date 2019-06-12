@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\DepositoGenerico.Entidades\bin\Debug\Clase16.Entidades.dll
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\DepositoGenerico.Entidades\bin\Debug\Clase16.Entidades.pdb
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\DepositoGenerico.Entidades\obj\Debug\DepositoGenerico.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\DepositoGenerico.Entidades\obj\Debug\Clase16.Entidades.dll
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\DepositoGenerico.Entidades\obj\Debug\Clase16.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\DepositoGenerico.Entidades\bin\Debug\Clase16.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\DepositoGenerico.Entidades\bin\Debug\Clase16.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\DepositoGenerico.Entidades\obj\Debug\DepositoGenerico.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\DepositoGenerico.Entidades\obj\Debug\Clase16.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\DepositoGenerico.Entidades\obj\Debug\Clase16.Entidades.pdb

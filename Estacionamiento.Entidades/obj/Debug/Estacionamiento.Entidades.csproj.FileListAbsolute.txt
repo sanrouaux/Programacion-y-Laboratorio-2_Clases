@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Estacionamiento.Entidades\bin\Debug\Entidades.Estacionamiento.starter.dll
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Estacionamiento.Entidades\bin\Debug\Entidades.Estacionamiento.starter.pdb
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Estacionamiento.Entidades\obj\Debug\Estacionamiento.Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Estacionamiento.Entidades\obj\Debug\Estacionamiento.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Estacionamiento.Entidades\obj\Debug\Entidades.Estacionamiento.starter.dll
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Estacionamiento.Entidades\obj\Debug\Entidades.Estacionamiento.starter.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Estacionamiento.Entidades\bin\Debug\Entidades.Estacionamiento.starter.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Estacionamiento.Entidades\bin\Debug\Entidades.Estacionamiento.starter.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Estacionamiento.Entidades\obj\Debug\Estacionamiento.Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Estacionamiento.Entidades\obj\Debug\Estacionamiento.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Estacionamiento.Entidades\obj\Debug\Entidades.Estacionamiento.starter.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Estacionamiento.Entidades\obj\Debug\Entidades.Estacionamiento.starter.pdb

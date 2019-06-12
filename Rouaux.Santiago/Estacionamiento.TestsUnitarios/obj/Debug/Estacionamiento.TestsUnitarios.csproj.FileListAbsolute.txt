@@ -1,2 +1,0 @@
-C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Estacionamiento.TestsUnitarios\obj\Debug\ProyectoTestUnitario.dll
-C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Estacionamiento.TestsUnitarios\obj\Debug\ProyectoTestUnitario.pdb

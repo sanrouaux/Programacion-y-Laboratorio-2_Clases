@@ -1,0 +1,16 @@
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_08.Entidades\bin\Debug\Clase_08.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_08.Entidades\bin\Debug\Clase_08.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_08.Entidades\obj\Debug\Lavadero.Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_08.Entidades\obj\Debug\Lavadero.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_08.Entidades\obj\Debug\Clase_08.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_08.Entidades\obj\Debug\Clase_08.Entidades.pdb
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Lavadero.Entidades\obj\Debug\Lavadero.Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Lavadero.Entidades\obj\Debug\Lavadero.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Lavadero.Entidades\obj\Debug\Clase_08.Entidades.dll
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Lavadero.Entidades\obj\Debug\Clase_08.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Lavadero.Entidades\bin\Debug\Clase_08.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Lavadero.Entidades\bin\Debug\Clase_08.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Lavadero.Entidades\obj\Debug\Lavadero.Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Lavadero.Entidades\obj\Debug\Lavadero.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Lavadero.Entidades\obj\Debug\Clase_08.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Lavadero.Entidades\obj\Debug\Clase_08.Entidades.pdb

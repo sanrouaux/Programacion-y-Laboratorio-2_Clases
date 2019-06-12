@@ -1,0 +1,9 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Cosa.Entidades\bin\Debug\netstandard2.0\Clase04.ProyectoCosa.Entidades.deps.json
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Cosa.Entidades\bin\Debug\netstandard2.0\Clase04.ProyectoCosa.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Cosa.Entidades\bin\Debug\netstandard2.0\Clase04.ProyectoCosa.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Cosa.Entidades\obj\Debug\netstandard2.0\Clase04.ProyectoCosa.Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Cosa.Entidades\obj\Debug\netstandard2.0\Clase04.ProyectoCosa.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Cosa.Entidades\obj\Debug\netstandard2.0\Clase04.ProyectoCosa.Entidades.AssemblyInfoInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Cosa.Entidades\obj\Debug\netstandard2.0\Clase04.ProyectoCosa.Entidades.AssemblyInfo.cs
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Cosa.Entidades\obj\Debug\netstandard2.0\Clase04.ProyectoCosa.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Cosa.Entidades\obj\Debug\netstandard2.0\Clase04.ProyectoCosa.Entidades.pdb
