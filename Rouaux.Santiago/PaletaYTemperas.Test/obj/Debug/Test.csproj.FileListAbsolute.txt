@@ -1,0 +1,12 @@
+D:\VisualStudio\Clase_06.Entidades\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase_06.Entidades\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Clase_06.Entidades\Test\bin\Debug\Test.exe
+D:\VisualStudio\Clase_06.Entidades\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Clase_06.Entidades\Test\bin\Debug\Paleta.dll
+D:\VisualStudio\Clase_06.Entidades\Test\bin\Debug\Tempera.dll
+D:\VisualStudio\Clase_06.Entidades\Test\bin\Debug\Paleta.pdb
+D:\VisualStudio\Clase_06.Entidades\Test\bin\Debug\Tempera.pdb
+D:\VisualStudio\Clase_06.Entidades\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\VisualStudio\Clase_06.Entidades\Test\obj\Debug\Test.csproj.CopyComplete
+D:\VisualStudio\Clase_06.Entidades\Test\obj\Debug\Test.exe
+D:\VisualStudio\Clase_06.Entidades\Test\obj\Debug\Test.pdb

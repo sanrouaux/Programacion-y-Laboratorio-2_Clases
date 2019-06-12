@@ -1,0 +1,6 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\Tempera\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\Tempera\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\Tempera\obj\Debug\Tempera.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\Tempera\obj\Debug\Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\Tempera\bin\Debug\Tempera.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\Tempera\bin\Debug\Tempera.pdb

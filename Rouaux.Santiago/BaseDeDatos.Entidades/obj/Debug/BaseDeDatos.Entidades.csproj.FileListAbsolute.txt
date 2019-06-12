@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\BaseDeDatos.Entidades\bin\Debug\Clase18.BaseDeDatos.dll.config
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\BaseDeDatos.Entidades\bin\Debug\Clase18.BaseDeDatos.dll
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\BaseDeDatos.Entidades\bin\Debug\Clase18.BaseDeDatos.pdb
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\BaseDeDatos.Entidades\obj\Debug\BaseDeDatos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\BaseDeDatos.Entidades\obj\Debug\Clase18.BaseDeDatos.dll
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\BaseDeDatos.Entidades\obj\Debug\Clase18.BaseDeDatos.pdb
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\BaseDeDatos.Entidades\obj\Debug\BaseDeDatos.Entidades.csprojAssemblyReference.cache

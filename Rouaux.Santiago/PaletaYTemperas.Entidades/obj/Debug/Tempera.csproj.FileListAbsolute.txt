@@ -1,0 +1,6 @@
+D:\VisualStudio\Clase_06.Entidades\Tempera\obj\Debug\Tempera.csprojAssemblyReference.cache
+D:\VisualStudio\Clase_06.Entidades\Tempera\obj\Debug\Tempera.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase_06.Entidades\Tempera\bin\Debug\Tempera.dll
+D:\VisualStudio\Clase_06.Entidades\Tempera\bin\Debug\Tempera.pdb
+D:\VisualStudio\Clase_06.Entidades\Tempera\obj\Debug\Tempera.dll
+D:\VisualStudio\Clase_06.Entidades\Tempera\obj\Debug\Tempera.pdb

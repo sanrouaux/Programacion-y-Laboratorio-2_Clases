@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rouaux.Santiago.2A", "Rouaux.Santiago.2A\Rouaux.Santiago.2A.csproj", "{582343AA-2256-4A1C-A994-8FEDDED966FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{2DEAE8BA-FCF3-4E5C-8F4B-5C7859FBF43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{582343AA-2256-4A1C-A994-8FEDDED966FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582343AA-2256-4A1C-A994-8FEDDED966FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582343AA-2256-4A1C-A994-8FEDDED966FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582343AA-2256-4A1C-A994-8FEDDED966FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DEAE8BA-FCF3-4E5C-8F4B-5C7859FBF43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEAE8BA-FCF3-4E5C-8F4B-5C7859FBF43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEAE8BA-FCF3-4E5C-8F4B-5C7859FBF43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEAE8BA-FCF3-4E5C-8F4B-5C7859FBF43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16A3939E-5EB6-48F4-92FD-F994D3E754BC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.frmPaleta.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.frmTempera.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.Properties.Resources.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csproj.GenerateResource.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta y Tempera.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta y Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\bin\Debug\WindowsForms_Paleta y Tempera.exe.config
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\bin\Debug\WindowsForms_Paleta y Tempera.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\bin\Debug\WindowsForms_Paleta y Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\bin\Debug\Tempera.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\bin\Debug\Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL-II-Clase06\WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\bin\Debug\WindowsForms_Paleta y Tempera.exe.config
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\bin\Debug\WindowsForms_Paleta y Tempera.exe
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\bin\Debug\WindowsForms_Paleta y Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\bin\Debug\Tempera.dll
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\bin\Debug\Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.frmPaleta.resources
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.frmTempera.resources
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.Properties.Resources.resources
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csproj.GenerateResource.cache
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta y Tempera.exe
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta y Tempera.pdb
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\bin\Debug\WindowsForms_Paleta y Tempera.exe.config
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\bin\Debug\WindowsForms_Paleta y Tempera.exe
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\bin\Debug\WindowsForms_Paleta y Tempera.pdb
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\bin\Debug\Tempera.dll
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\bin\Debug\Tempera.pdb
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.frmPaleta.resources
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.frmTempera.resources
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.Properties.Resources.resources
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\Clase07_WindowsForms_Paleta y Tempera.csproj.CopyComplete
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta y Tempera.exe
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta y Tempera.pdb
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.frmPrincipal.resources
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_07.WindowsForms_Paleta y Tempera\obj\Debug\WindowsForms_Paleta_y_Tempera.frmPrincipal.resources

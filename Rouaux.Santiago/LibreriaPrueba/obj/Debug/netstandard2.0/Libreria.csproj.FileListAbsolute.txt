@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\Prog-y-Lab-II\Rouaux.Santiago\Libreria\bin\Debug\netstandard2.0\Libreria.deps.json
+C:\Users\alumno\Desktop\Prog-y-Lab-II\Rouaux.Santiago\Libreria\bin\Debug\netstandard2.0\Libreria.dll
+C:\Users\alumno\Desktop\Prog-y-Lab-II\Rouaux.Santiago\Libreria\bin\Debug\netstandard2.0\Libreria.pdb
+C:\Users\alumno\Desktop\Prog-y-Lab-II\Rouaux.Santiago\Libreria\obj\Debug\netstandard2.0\Libreria.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Prog-y-Lab-II\Rouaux.Santiago\Libreria\obj\Debug\netstandard2.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Prog-y-Lab-II\Rouaux.Santiago\Libreria\obj\Debug\netstandard2.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Prog-y-Lab-II\Rouaux.Santiago\Libreria\obj\Debug\netstandard2.0\Libreria.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Prog-y-Lab-II\Rouaux.Santiago\Libreria\obj\Debug\netstandard2.0\Libreria.dll
+C:\Users\alumno\Desktop\Prog-y-Lab-II\Rouaux.Santiago\Libreria\obj\Debug\netstandard2.0\Libreria.pdb

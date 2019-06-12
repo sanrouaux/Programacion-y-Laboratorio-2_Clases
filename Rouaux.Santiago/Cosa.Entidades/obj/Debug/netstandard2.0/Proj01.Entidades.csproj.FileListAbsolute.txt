@@ -1,0 +1,9 @@
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_04\bin\Debug\netstandard2.0\Proj01.Entidades.deps.json
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_04\bin\Debug\netstandard2.0\Proj01.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_04\bin\Debug\netstandard2.0\Proj01.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_04\obj\Debug\netstandard2.0\Proj01.Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_04\obj\Debug\netstandard2.0\Proj01.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_04\obj\Debug\netstandard2.0\Proj01.Entidades.AssemblyInfoInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_04\obj\Debug\netstandard2.0\Proj01.Entidades.AssemblyInfo.cs
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_04\obj\Debug\netstandard2.0\Proj01.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\Programacion-y-Laboratorio-II\Rouaux.Santiago\Clase_04\obj\Debug\netstandard2.0\Proj01.Entidades.pdb
