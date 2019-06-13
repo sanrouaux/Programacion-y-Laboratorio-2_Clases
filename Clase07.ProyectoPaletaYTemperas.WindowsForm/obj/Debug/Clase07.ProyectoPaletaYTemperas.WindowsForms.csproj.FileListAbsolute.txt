@@ -1,0 +1,30 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\bin\Debug\WindowsForms_Paleta y Tempera.exe.config
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\bin\Debug\WindowsForms_Paleta y Tempera.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\bin\Debug\WindowsForms_Paleta y Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\bin\Debug\Tempera.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\bin\Debug\Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\obj\Debug\Clase07.ProyectoPaletaYTemperas.WindowsForms.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta_y_Tempera.frmPaleta.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta_y_Tempera.frmPrincipal.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta_y_Tempera.frmTempera.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta_y_Tempera.Properties.Resources.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\obj\Debug\Clase07.ProyectoPaletaYTemperas.WindowsForms.csproj.GenerateResource.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\obj\Debug\Clase07.ProyectoPaletaYTemperas.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\obj\Debug\Clase07.ProyectoPaletaYTemperas.WindowsForms.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta y Tempera.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\PaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta y Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\bin\Debug\WindowsForms_Paleta y Tempera.exe.config
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\bin\Debug\WindowsForms_Paleta y Tempera.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\bin\Debug\WindowsForms_Paleta y Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\bin\Debug\Tempera.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\bin\Debug\Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\obj\Debug\Clase07.ProyectoPaletaYTemperas.WindowsForms.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta_y_Tempera.frmPaleta.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta_y_Tempera.frmPrincipal.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta_y_Tempera.frmTempera.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta_y_Tempera.Properties.Resources.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\obj\Debug\Clase07.ProyectoPaletaYTemperas.WindowsForms.csproj.GenerateResource.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\obj\Debug\Clase07.ProyectoPaletaYTemperas.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\obj\Debug\Clase07.ProyectoPaletaYTemperas.WindowsForms.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta y Tempera.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase07.ProyectoPaletaYTemperas.WindowsForm\obj\Debug\WindowsForms_Paleta y Tempera.pdb

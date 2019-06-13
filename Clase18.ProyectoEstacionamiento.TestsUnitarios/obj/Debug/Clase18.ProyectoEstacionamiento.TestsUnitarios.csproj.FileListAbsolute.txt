@@ -1,0 +1,4 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Estacionamiento.TestsUnitarios\obj\Debug\ProyectoTestUnitario.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Estacionamiento.TestsUnitarios\obj\Debug\ProyectoTestUnitario.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\obj\Debug\ProyectoTestUnitario.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\obj\Debug\ProyectoTestUnitario.pdb
