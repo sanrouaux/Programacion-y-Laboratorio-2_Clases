@@ -49,8 +49,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PlumaYTinta.Entidades\Clase05.ProyectoPlumaYTinta.Entidades.csproj">
-      <Project>{341c7c85-fd42-4872-9804-654dcaebe03b}</Project>
+    <ProjectReference Include="..\Clase05.ProyectoPlumaYTinta.Entidades\Clase05.ProyectoPlumaYTinta.Entidades.csproj">
+      <Project>{fe5edbcc-1ba8-4cc6-926a-a3a0500528b6}</Project>
       <Name>Clase05.ProyectoPlumaYTinta.Entidades</Name>
     </ProjectReference>
   </ItemGroup>

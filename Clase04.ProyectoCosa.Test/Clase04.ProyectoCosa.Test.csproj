@@ -49,8 +49,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Cosa.Entidades\Clase04.ProyectoCosa.Entidades.csproj">
-      <Project>{680096b4-dc0a-4b26-9923-82d8231d1484}</Project>
+    <ProjectReference Include="..\Clase04.ProyectoCosa.Entidades\Clase04.ProyectoCosa.Entidades.csproj">
+      <Project>{525d8641-cef5-4690-b613-8334df6d52d7}</Project>
       <Name>Clase04.ProyectoCosa.Entidades</Name>
     </ProjectReference>
   </ItemGroup>
