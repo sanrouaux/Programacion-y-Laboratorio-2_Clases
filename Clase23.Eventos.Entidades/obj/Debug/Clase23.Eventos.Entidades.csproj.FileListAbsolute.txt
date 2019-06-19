@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Entidades\bin\Debug\Clase23.Eventos.Entidades.dll
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Entidades\bin\Debug\Clase23.Eventos.Entidades.pdb
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Entidades\obj\Debug\Clase23.Eventos.Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Entidades\obj\Debug\Clase23.Eventos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Entidades\obj\Debug\Clase23.Eventos.Entidades.dll
+C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Entidades\obj\Debug\Clase23.Eventos.Entidades.pdb
