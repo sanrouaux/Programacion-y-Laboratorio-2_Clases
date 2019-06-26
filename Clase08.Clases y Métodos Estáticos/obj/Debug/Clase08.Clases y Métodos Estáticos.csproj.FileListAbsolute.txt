@@ -1,0 +1,6 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase08.Clases y Métodos Estáticos\bin\Debug\Clases y Métodos Estáticos.exe.config
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase08.Clases y Métodos Estáticos\bin\Debug\Clases y Métodos Estáticos.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase08.Clases y Métodos Estáticos\bin\Debug\Clases y Métodos Estáticos.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase08.Clases y Métodos Estáticos\obj\Debug\Clase08.Clases y Métodos Estáticos.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase08.Clases y Métodos Estáticos\obj\Debug\Clases y Métodos Estáticos.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase08.Clases y Métodos Estáticos\obj\Debug\Clases y Métodos Estáticos.pdb

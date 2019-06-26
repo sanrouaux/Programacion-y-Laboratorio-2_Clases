@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 using Libreria;
+using System.Xml.Serialization;
+using System.Xml;
 
 namespace Proyecto01
 {
@@ -11,6 +14,12 @@ namespace Proyecto01
     {
         static void Main(string[] args)
         {
+            XmlSerializer xml = new XmlSerializer(typeof(string));
+            StreamWriter writer = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\serie.xml");
+            xml.Serialize(writer, "Hola");
+
+            XmlTextWriter 
+
             /*Console.WriteLine("Hola, mundo!");
             Console.ReadKey();
 
@@ -21,7 +30,7 @@ namespace Proyecto01
             Console.WriteLine("Su nombre es: {0}", nombre);
             Console.ReadKey();*/
 
-            Console.WriteLine(Prueba.Saludar());
+            //Console.WriteLine(Prueba.Saludar());
             Console.ReadKey();
         }
     }

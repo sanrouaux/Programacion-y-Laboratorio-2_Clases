@@ -1,0 +1,6 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase09.ProyectoLavadero.Entidades\bin\Debug\Clase_08.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase09.ProyectoLavadero.Entidades\bin\Debug\Clase_08.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase09.ProyectoLavadero.Entidades\obj\Debug\Clase09.ProyectoLavadero.Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase09.ProyectoLavadero.Entidades\obj\Debug\Clase09.ProyectoLavadero.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase09.ProyectoLavadero.Entidades\obj\Debug\Clase_08.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase09.ProyectoLavadero.Entidades\obj\Debug\Clase_08.Entidades.pdb

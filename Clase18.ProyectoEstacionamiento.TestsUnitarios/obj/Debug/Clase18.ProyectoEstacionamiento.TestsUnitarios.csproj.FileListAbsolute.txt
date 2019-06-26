@@ -1,0 +1,16 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Prueba.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Prueba.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Entidades.Estacionamiento.starter.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Entidades.Estacionamiento.starter.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\obj\Debug\Clase18.ProyectoEstacionamiento.TestsUnitarios.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\obj\Debug\Clase18.ProyectoEstacionamiento.TestsUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\obj\Debug\Clase18.ProyectoEstacionamiento.TestsUnitarios.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\obj\Debug\Prueba.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase18.ProyectoEstacionamiento.TestsUnitarios\obj\Debug\Prueba.pdb

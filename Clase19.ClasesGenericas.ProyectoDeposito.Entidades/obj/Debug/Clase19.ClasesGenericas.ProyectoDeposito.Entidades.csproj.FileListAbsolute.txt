@@ -1,0 +1,6 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase19.ClasesGenericas.ProyectoDeposito.Entidades\bin\Debug\Clase16.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase19.ClasesGenericas.ProyectoDeposito.Entidades\bin\Debug\Clase16.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase19.ClasesGenericas.ProyectoDeposito.Entidades\obj\Debug\Clase19.ClasesGenericas.ProyectoDeposito.Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase19.ClasesGenericas.ProyectoDeposito.Entidades\obj\Debug\Clase19.ClasesGenericas.ProyectoDeposito.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase19.ClasesGenericas.ProyectoDeposito.Entidades\obj\Debug\Clase16.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase19.ClasesGenericas.ProyectoDeposito.Entidades\obj\Debug\Clase16.Entidades.pdb

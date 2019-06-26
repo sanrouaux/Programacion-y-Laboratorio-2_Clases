@@ -8,3 +8,13 @@ C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Cons
 C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Consola\obj\Debug\Clase23.Eventos.Consola.csproj.CopyComplete
 C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Consola\obj\Debug\Clase23.Eventos.Consola.exe
 C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Consola\obj\Debug\Clase23.Eventos.Consola.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.Consola\bin\Debug\Clase23.Eventos.Consola.exe.config
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.Consola\bin\Debug\Clase23.Eventos.Consola.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.Consola\bin\Debug\Clase23.Eventos.Consola.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.Consola\bin\Debug\Clase23.Eventos.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.Consola\bin\Debug\Clase23.Eventos.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.Consola\obj\Debug\Clase23.Eventos.Consola.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.Consola\obj\Debug\Clase23.Eventos.Consola.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.Consola\obj\Debug\Clase23.Eventos.Consola.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.Consola\obj\Debug\Clase23.Eventos.Consola.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.Consola\obj\Debug\Clase23.Eventos.Consola.pdb

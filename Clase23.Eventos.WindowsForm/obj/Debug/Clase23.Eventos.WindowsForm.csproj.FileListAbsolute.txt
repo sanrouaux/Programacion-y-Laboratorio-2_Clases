@@ -11,3 +11,16 @@ C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.Wind
 C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.csproj.CopyComplete
 C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.exe
 C:\Users\alumno\Desktop\Programacion-y-Laboratorio-2_Clases\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\bin\Debug\Clase23.Eventos.WindowsForm.exe.config
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\bin\Debug\Clase23.Eventos.WindowsForm.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\bin\Debug\Clase23.Eventos.WindowsForm.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\bin\Debug\Clase23.Eventos.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\bin\Debug\Clase23.Eventos.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.Form1.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.Properties.Resources.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.csproj.GenerateResource.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase23.Eventos.WindowsForm\obj\Debug\Clase23.Eventos.WindowsForm.pdb

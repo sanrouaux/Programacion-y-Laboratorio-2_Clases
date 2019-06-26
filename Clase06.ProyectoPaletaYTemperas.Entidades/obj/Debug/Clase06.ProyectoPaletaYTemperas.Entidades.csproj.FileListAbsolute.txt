@@ -1,0 +1,6 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase06.ProyectoPaletaYTemperas.Entidades\bin\Debug\Tempera.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase06.ProyectoPaletaYTemperas.Entidades\bin\Debug\Tempera.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase06.ProyectoPaletaYTemperas.Entidades\obj\Debug\Clase06.ProyectoPaletaYTemperas.Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase06.ProyectoPaletaYTemperas.Entidades\obj\Debug\Clase06.ProyectoPaletaYTemperas.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase06.ProyectoPaletaYTemperas.Entidades\obj\Debug\Tempera.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase06.ProyectoPaletaYTemperas.Entidades\obj\Debug\Tempera.pdb

@@ -1,0 +1,6 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase15.Excepciones.Entidades\bin\Debug\Clase14.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase15.Excepciones.Entidades\bin\Debug\Clase14.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase15.Excepciones.Entidades\obj\Debug\Clase15.Excepciones.Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase15.Excepciones.Entidades\obj\Debug\Clase15.Excepciones.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase15.Excepciones.Entidades\obj\Debug\Clase14.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase15.Excepciones.Entidades\obj\Debug\Clase14.Entidades.pdb

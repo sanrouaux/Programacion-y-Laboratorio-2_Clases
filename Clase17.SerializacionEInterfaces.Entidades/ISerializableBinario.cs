@@ -8,6 +8,6 @@ namespace Clase17.Entidades
 {
   interface ISerializableBinario
   {
-    bool SerializarXML();
+    bool SerializarBinario();
   }
 }

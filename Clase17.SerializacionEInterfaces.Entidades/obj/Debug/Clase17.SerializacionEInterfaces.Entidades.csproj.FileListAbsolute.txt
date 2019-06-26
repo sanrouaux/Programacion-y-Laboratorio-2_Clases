@@ -1,0 +1,6 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase17.SerializacionEInterfaces.Entidades\bin\Debug\Clase17.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase17.SerializacionEInterfaces.Entidades\bin\Debug\Clase17.Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase17.SerializacionEInterfaces.Entidades\obj\Debug\Clase17.SerializacionEInterfaces.Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase17.SerializacionEInterfaces.Entidades\obj\Debug\Clase17.SerializacionEInterfaces.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase17.SerializacionEInterfaces.Entidades\obj\Debug\Clase17.Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase17.SerializacionEInterfaces.Entidades\obj\Debug\Clase17.Entidades.pdb

@@ -1,0 +1,10 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase16.ArchivosTexto.WindowsForm\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase16.ArchivosTexto.WindowsForm\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase16.ArchivosTexto.WindowsForm\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase16.ArchivosTexto.WindowsForm\obj\Debug\Clase16.ArchivosTexto.WindowsForm.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase16.ArchivosTexto.WindowsForm\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase16.ArchivosTexto.WindowsForm\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase16.ArchivosTexto.WindowsForm\obj\Debug\Clase16.ArchivosTexto.WindowsForm.csproj.GenerateResource.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase16.ArchivosTexto.WindowsForm\obj\Debug\Clase16.ArchivosTexto.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase16.ArchivosTexto.WindowsForm\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase16.ArchivosTexto.WindowsForm\obj\Debug\WindowsFormsApp1.pdb

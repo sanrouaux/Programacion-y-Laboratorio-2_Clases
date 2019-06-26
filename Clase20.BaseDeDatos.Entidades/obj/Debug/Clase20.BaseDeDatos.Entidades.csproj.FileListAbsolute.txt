@@ -1,0 +1,7 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase20.BaseDeDatos.Entidades\bin\Debug\Clase18.BaseDeDatos.dll.config
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase20.BaseDeDatos.Entidades\bin\Debug\Clase18.BaseDeDatos.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase20.BaseDeDatos.Entidades\bin\Debug\Clase18.BaseDeDatos.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase20.BaseDeDatos.Entidades\obj\Debug\Clase20.BaseDeDatos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase20.BaseDeDatos.Entidades\obj\Debug\Clase18.BaseDeDatos.dll
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase20.BaseDeDatos.Entidades\obj\Debug\Clase18.BaseDeDatos.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase20.BaseDeDatos.Entidades\obj\Debug\Clase20.BaseDeDatos.Entidades.csprojAssemblyReference.cache

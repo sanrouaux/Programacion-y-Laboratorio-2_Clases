@@ -1,0 +1,10 @@
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase22.Delegados.WindowsForm\bin\Debug\Clase22.Eventos.WindowsForm.exe.config
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase22.Delegados.WindowsForm\bin\Debug\Clase22.Eventos.WindowsForm.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase22.Delegados.WindowsForm\bin\Debug\Clase22.Eventos.WindowsForm.pdb
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase22.Delegados.WindowsForm\obj\Debug\Clase22.Delegados.WindowsForm.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase22.Delegados.WindowsForm\obj\Debug\Clase22.Eventos.WindowsForm.FrmTest.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase22.Delegados.WindowsForm\obj\Debug\Clase22.Eventos.WindowsForm.Properties.Resources.resources
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase22.Delegados.WindowsForm\obj\Debug\Clase22.Delegados.WindowsForm.csproj.GenerateResource.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase22.Delegados.WindowsForm\obj\Debug\Clase22.Delegados.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase22.Delegados.WindowsForm\obj\Debug\Clase22.Eventos.WindowsForm.exe
+C:\Users\sanro\OneDrive\Escritorio\PyL2\Clase22.Delegados.WindowsForm\obj\Debug\Clase22.Eventos.WindowsForm.pdb

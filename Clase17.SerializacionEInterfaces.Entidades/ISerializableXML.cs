@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clase17.Entidades
 {
-  interface ISerializableXML
+  public interface ISerializableXML
   {
     bool SerializarXML();
 

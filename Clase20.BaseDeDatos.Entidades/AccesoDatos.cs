@@ -159,10 +159,9 @@ namespace Clase18.BaseDeDatos
         SqlDataReader lector = this._comando.ExecuteReader();
         tabla.Load(lector);
       }
-      catch (Exception)
+      catch (Exception e)
       {
-
-        throw;
+        Console.WriteLine(e.Message);
       }
       finally
       {

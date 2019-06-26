@@ -2,11 +2,11 @@ using System;
 
 namespace Libreria
 {
-  public class Prueba
-  {
-    public static string Saludar()
+    public class Prueba
     {
-      return "Saludos desde la libreria";
+        public static string Saludar()
+        {         
+            return "Saludos desde la libreria";
+        }
     }
-  }
 }
